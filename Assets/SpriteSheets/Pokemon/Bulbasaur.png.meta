@@ -1,0 +1,1213 @@
+fileFormatVersion: 2
+guid: 1bfe8c68437e87749af596c602fd768a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2310494361946168236
+    second: TransSpriteBulbasaur_0
+  - first:
+      213: 8390851044190302653
+    second: TransSpriteBulbasaur_1
+  - first:
+      213: 6123426964953304506
+    second: TransSpriteBulbasaur_2
+  - first:
+      213: -1748616347792451319
+    second: TransSpriteBulbasaur_3
+  - first:
+      213: -7796719544301988237
+    second: TransSpriteBulbasaur_4
+  - first:
+      213: 5389517778649031104
+    second: TransSpriteBulbasaur_5
+  - first:
+      213: -6642297267990579648
+    second: TransSpriteBulbasaur_6
+  - first:
+      213: 42400900972881806
+    second: TransSpriteBulbasaur_7
+  - first:
+      213: -1293835800751799883
+    second: TransSpriteBulbasaur_8
+  - first:
+      213: -4785329240676609065
+    second: TransSpriteBulbasaur_9
+  - first:
+      213: 6489550844803134679
+    second: TransSpriteBulbasaur_10
+  - first:
+      213: 4941916037635185828
+    second: TransSpriteBulbasaur_11
+  - first:
+      213: -3883251668515173587
+    second: TransSpriteBulbasaur_12
+  - first:
+      213: -3568195059205126792
+    second: TransSpriteBulbasaur_13
+  - first:
+      213: 5765805807344992974
+    second: TransSpriteBulbasaur_14
+  - first:
+      213: 5025331545401758686
+    second: TransSpriteBulbasaur_15
+  - first:
+      213: 8625383978043103362
+    second: TransSpriteBulbasaur_16
+  - first:
+      213: -6045141350783448579
+    second: TransSpriteBulbasaur_17
+  - first:
+      213: -3865684303326404844
+    second: TransSpriteBulbasaur_18
+  - first:
+      213: -4522348213397543531
+    second: TransSpriteBulbasaur_19
+  - first:
+      213: 412343037624836251
+    second: TransSpriteBulbasaur_20
+  - first:
+      213: 8274022921310134668
+    second: TransSpriteBulbasaur_21
+  - first:
+      213: 1131507241074137751
+    second: TransSpriteBulbasaur_22
+  - first:
+      213: -8354533125361208573
+    second: TransSpriteBulbasaur_23
+  - first:
+      213: 9192245773141527961
+    second: TransSpriteBulbasaur_24
+  - first:
+      213: 1778991035783222275
+    second: TransSpriteBulbasaur_25
+  - first:
+      213: 6470290807220280703
+    second: TransSpriteBulbasaur_26
+  - first:
+      213: -6919058398207983115
+    second: TransSpriteBulbasaur_27
+  - first:
+      213: 6598961615866124279
+    second: TransSpriteBulbasaur_28
+  - first:
+      213: -7936103109328710246
+    second: TransSpriteBulbasaur_29
+  - first:
+      213: -741594573348232652
+    second: TransSpriteBulbasaur_30
+  - first:
+      213: -1313820287270353442
+    second: TransSpriteBulbasaur_31
+  - first:
+      213: 4309697927179025432
+    second: TransSpriteBulbasaur_32
+  - first:
+      213: -8486759030308371107
+    second: TransSpriteBulbasaur_33
+  - first:
+      213: 4544727033158103153
+    second: TransSpriteBulbasaur_34
+  - first:
+      213: 71101801384196640
+    second: TransSpriteBulbasaur_35
+  - first:
+      213: 3066150960748628584
+    second: TransSpriteBulbasaur_36
+  - first:
+      213: -649837581800011258
+    second: TransSpriteBulbasaur_37
+  - first:
+      213: 7908287094208105212
+    second: TransSpriteBulbasaur_38
+  - first:
+      213: -1643205816812249537
+    second: TransSpriteBulbasaur_39
+  - first:
+      213: 7831350752338728338
+    second: TransSpriteBulbasaur_40
+  - first:
+      213: 3714340874581447048
+    second: TransSpriteBulbasaur_41
+  - first:
+      213: -5797303863201270589
+    second: TransSpriteBulbasaur_42
+  - first:
+      213: -3720192070003288519
+    second: TransSpriteBulbasaur_43
+  - first:
+      213: 6059809598031656523
+    second: TransSpriteBulbasaur_44
+  - first:
+      213: -7873104704518027510
+    second: TransSpriteBulbasaur_45
+  - first:
+      213: 5579875229537174349
+    second: TransSpriteBulbasaur_46
+  - first:
+      213: -1409684493245218975
+    second: TransSpriteBulbasaur_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82ee7c267c1df048af7215a66f17790
+      internalID: -2310494361946168236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 176
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2de117f0a8cdbf438302d303f7d66e3
+      internalID: 8390851044190302653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 180
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7bc2150683f4547b45ada115caf34f
+      internalID: 6123426964953304506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 180
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc06c89d62a18294ead132b3dc31337c
+      internalID: 5389517778649031104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 180
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850243536ac7b0c45943662809a26c31
+      internalID: -6642297267990579648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 180
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35c95ebfaa7914409c021e39771223d
+      internalID: 42400900972881806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 180
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd5f769c2964c7419cbacdfce2f6839
+      internalID: -1293835800751799883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 180
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3154eaf670a8241904f3d4fae86944
+      internalID: -4785329240676609065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 180
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0620769e67669c54a9ef76b0626cee47
+      internalID: 6489550844803134679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 180
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7320bf6e3e46a4b8d88f177cfc31cf
+      internalID: 4941916037635185828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_12
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 181
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14134f94edbd49f47a7e60e9dada8b0a
+      internalID: -3883251668515173587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 127
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aa4ae88fe4ddc4cb960493df82ca77
+      internalID: -3568195059205126792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cdd6951e7b65445be5bfc6ecb3aea1
+      internalID: 5765805807344992974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 127
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bbdf7ffdbffb64ba966c0dc8e67456
+      internalID: 5025331545401758686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf39843fef7f6fc42bcef673b129c5b1
+      internalID: 8625383978043103362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 127
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394a5b487b84f85458a22b25984e694c
+      internalID: -6045141350783448579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 127
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7340a4b9aa8b74bb1e4d610d126348
+      internalID: -3865684303326404844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 127
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48125a6208aab94d9f0c85d85a77d6c
+      internalID: -4522348213397543531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 127
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28295004914f614097ff9e9b27d6c4e
+      internalID: 412343037624836251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_21
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 127
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf58424a664c3334591365c1df2fc392
+      internalID: 8274022921310134668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 127
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9547f868b810924388b9af4f3da1e79
+      internalID: 1131507241074137751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 67
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29a2a1cd75f37e49bd9d7a33e44f6a9
+      internalID: 9192245773141527961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 67
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086be0fe78bc50c42b1af8a1be0e4723
+      internalID: 1778991035783222275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 67
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02db6e63d6f5ee44af3a39167ee090e
+      internalID: 6470290807220280703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_27
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 67
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f6c9725c4c4414a8f91164b11887a8
+      internalID: -6919058398207983115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_28
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 67
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df22bf4f6e4fb3e4381b8db12475aeb4
+      internalID: 6598961615866124279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_29
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 67
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fde92946568346419b0212deeb0b3c8
+      internalID: -7936103109328710246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_30
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 68
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baabdb416cf5f684998aca96d5b9e9ac
+      internalID: -741594573348232652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 68
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71fb5cee1e08b14591721ac472f08ea
+      internalID: -1313820287270353442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_32
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 67
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0acd0cdce13aa14398cf14cab59fed5
+      internalID: 4309697927179025432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_33
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 67
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b2c8e20e40f5f489ccc155380e0656
+      internalID: -8486759030308371107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_34
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 67
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10022d52d4369545ac61a6a31482807
+      internalID: 4544727033158103153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d823d05f711c1348a4b328f95107d94
+      internalID: 71101801384196640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 8
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fd620e884c3f9449f214cd9bcc9b92
+      internalID: 3066150960748628584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 8
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63659fbf7c14cc34d9f156a18f1e18e3
+      internalID: -649837581800011258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 8
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8fac8d2d276a94fbb7ee4902b16279
+      internalID: 7908287094208105212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 8
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd2d1dbf12cf124c8ec85db15ba23fb
+      internalID: -1643205816812249537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df545d49d7016a46830bf2af5950134
+      internalID: 7831350752338728338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_41
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 8
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ac01c4f7db3db4b86adfaed904cc8d
+      internalID: 3714340874581447048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 8
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdce23f2a3e1cb749af7ade8f50a8424
+      internalID: -5797303863201270589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_43
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 8
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d29deb7cadfad54bb28f1a98c5a5906
+      internalID: -3720192070003288519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_44
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 10
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a6f5b1070d39a46ab75fdce17e2fba
+      internalID: 6059809598031656523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_45
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 8
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01de8ca1b64d05a4e9c109cdbef20b4d
+      internalID: -7873104704518027510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_46
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 8
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3682bf028f40c8c4d8ce14032c3e067f
+      internalID: 5579875229537174349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_47
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 171
+        width: 16
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ebad5f37b0122409c910fb999032f8
+      internalID: -1409684493245218975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TransSpriteBulbasaur_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 67
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817369e274701514397f89c2ba18456e
+      internalID: -1748616347792451319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
