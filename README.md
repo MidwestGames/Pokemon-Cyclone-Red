@@ -10,4 +10,4 @@ As of now, I am on a hiatus from the project due to university, but I will be pi
 #DISCLAIMER
 This is only for me, and not to be distributed to anyone for play. This is for educational purposes.
 
-<sub><sup><sub><sup>Don't sue me Nintendo<\sub><\sup><\sub><\sup>
+<sub><sup>Don't sue me Nintendo
