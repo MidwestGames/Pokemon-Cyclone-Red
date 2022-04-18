@@ -8,4 +8,4 @@ I started looking for the spritesheets for one of the DS generation games, and I
 As of now, I am on a hiatus from the project due to university, but I will be picking it back up in the summer (May-July). 
 
 #DISCLAIMER
-This is only for me, and not to be distributed to anyone for play. This is for educational purposes. <sub><sup><sub><sup>Don't sue me Nintendo<\sup>\sub><\sup>\sub> test
+This is only for me, and not to be distributed to anyone for play. This is for educational purposes. <sub><sup><sub><sup>Don't sue me Nintendo</sup></sub></sup></sub> test
